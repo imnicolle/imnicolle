@@ -7,8 +7,5 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nicollessantana"><img src="./assets/linkedin.svg" width="120" height="44" alt="Linkedin" /></a>&nbsp;<a href="mailto:nicollesantana.contact@gmail.com"><img src="./assets/email.svg" width="110" height="44" alt="Email" /></a>&nbsp;<img src="./assets/views.svg" width="150" height="44" alt="Profile views" />
+<a href="https://www.linkedin.com/in/nicollessantana"><img src="./assets/linkedin.svg" width="120" height="44" alt="Linkedin" /></a>&nbsp;<a href="mailto:nicollesantana.contact@gmail.com"><img src="./assets/email.svg" width="110" height="44" alt="Email" /></a>
 </p>
-
-<!-- contador: cada carregamento do README soma 1 visita (o views.svg é atualizado pelo workflow) -->
-<img src="https://tally.yuki.sh/hits/imnicolle/profile.svg" width="1" height="1" alt="" />
