@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+<img src="./assets/header.svg" width="860" alt="Nicolle Santana — Software Developer" />
+</p>
 
-<!--
-**imnicolle/imnicolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="./assets/stack.svg" width="860" alt="Tech stack" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://www.linkedin.com/in/nicollessantana"><img src="./assets/linkedin.svg" width="120" height="44" alt="Linkedin" /></a>&nbsp;<a href="mailto:nicollesantana.contact@gmail.com"><img src="./assets/email.svg" width="110" height="44" alt="Email" /></a>&nbsp;<img src="./assets/views.svg" width="150" height="44" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- contador: cada carregamento do README soma 1 visita (o views.svg é atualizado pelo workflow) -->
+<img src="https://tally.yuki.sh/hits/imnicolle/profile.svg" width="1" height="1" alt="" />
